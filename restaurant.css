@@ -1,0 +1,609 @@
+.fixed
+	{
+		
+		float:left;
+		background-color:red;
+		background-image:url(back.png);
+		background-attachment:fixed;
+		background-repeat:no-repeat;
+		background-size:100% 100%;
+		
+		
+	}
+.main-div
+	{
+		height:500px;
+		width:100%;
+		background-color:red;
+		background-image: url(restaurant.jpg);
+		background-size:100% 100%;
+		float:left;
+	}
+.upper-restaurant
+	{
+		color:white;
+		font-size:20px;
+		float:left;
+		margin-top:2%;
+		margin-left:60%;
+		opacity:0.7;
+	}
+.upper
+	{
+		color:white;
+		font-size:22px;
+		float:left;
+		margin-top:2%;
+		margin-left:4%;
+		opacity:0.7;
+	}
+.business-name
+	{
+		height:15%;
+		width:10%;
+		
+		font-size:40px;
+		color:white;
+		font-weight:bold;
+		margin-left:20%;
+		margin-top:1%;
+		float:left;
+	}
+.top-line
+	{
+		height:5%;
+		font-size:17px;
+		color:white;
+		float:left;
+		margin-top:2%;
+		margin-right:3%;
+	}
+.margin
+	{
+		margin-left:30%;
+	}
+.login
+	{
+		border:1px solid white;
+		border-radius:10px;
+		padding:0.5%;
+		font-size:15px;
+	}
+.account
+	{
+		background-color:blue;
+		border-radius:10px;
+		padding:0.5%;
+	}	
+.offer-1
+	{
+		height:20%;
+		width:100%;
+		color:white;
+		float:left;
+		font-size:40px;
+		text-align:justify;
+		padding-left:25%;
+		margin-top:2%;
+		box-sizing:border-box;
+	}	
+.line1
+	{
+		height:8%;
+		width:100%;
+		color:white;
+		font-size:18px;
+		float:left;
+		padding-left:25%;
+		margin-top:1.5%;
+		box-sizing:border-box;
+	}
+.restaurant-login
+	{
+		height:10%;
+		width:100%;
+		
+		float:left;
+		padding-left:25%;
+		margin-top:0.5%;
+		box-sizing:border-box;
+	}	
+.register
+	{
+		height:100%;
+		width:30%;
+		background-color:blue;
+		color:white;
+		float:left;
+		box-sizing:border-box;
+		padding:1%;
+		font-size:20px;
+		text-align:center;
+		border-radius:10px;
+		margin-right:1%;
+		box-sizing:border-box;
+	}
+.exist
+	{
+		height:100%;
+		width:30%;
+		background-color:white;
+		color:black;
+		float:left;
+		box-sizing:border-box;
+		padding:1%;
+		font-size:20px;
+		text-align:center;
+		border-radius:10px;
+		box-sizing:border-box;
+	}	
+	
+.help
+	{
+		height:5%;
+		width:100%;
+		color:white;
+		float:left;
+		padding-left:25%;
+		margin-top:0.5%;
+		font-size:15px;
+		margin-top:0.5%;
+		box-sizing:border-box;
+	}
+.second-div
+	{
+		height:400px;
+		width:100%;
+		background-color:#ECEEEE;
+		float:left;
+		box-sizing:border-box;
+	}	
+.in-div
+	{
+		height:90%;
+		width:50%;
+		background-color:white;
+		margin-top:-3%;
+		margin-left:23%;
+		border-radius:10px;
+		text-align:center;
+		box-sizing:border-box;
+		padding:1.5%;
+		padding-left:5%;
+	}	
+.check
+	{
+		height:10%;
+		width:40%;
+		font-size:18px;
+		background-color:white;
+		color:black;
+		margin-top:5%;
+		float:left;
+		text-align:left;
+	}	
+.third-div
+	{
+		height:400px;
+		width:100%;
+		text-align:center;
+		float:left;
+		box-sizing:border-box;
+		margin-top:2%;
+	}
+.inside-third
+	{
+		height:25%;
+		width:20%;
+		box-shadow:0.1px 0.1px 5px gray;
+		float:left;
+		margin-right:2%;
+		margin-top:4%;
+		box-sizing:border-box;
+		padding:1%;
+		
+	}
+.margin20
+	{
+		margin-left:20%;
+	}	
+.image
+	{
+		height:94%;
+		width:14%;
+		float:left;
+		box-sizing:border-box;
+		padding-top:6%;
+		
+	}	
+.fourth-div
+	{
+		height:400px;
+		width:100%;
+		background-color:red;
+		background-image: url(back3.jpg);
+		background-size:100% 100%;
+		float:left;
+	}
+.works
+	{
+		height:200px;
+		width:100%;
+		float:left;
+		text-align:center;
+		
+	}
+.steps
+	{
+		height:200%;
+		width:20%;
+		box-shadow:1px 1px 10px gray;
+		box-sizing:border-box;
+		padding:1%;
+		background-color:white;
+		float:left;
+		margin-right:2%;
+		
+	}	
+.step-image
+	{
+		height:50%;
+		width:75%;
+		border-radius:50%;
+		background-color:#F6F0B6;
+		opacity:0.5;
+		margin-left:10%;
+	}
+.image-size
+	{
+		height:60%;
+		width:60%;
+		opacity:1;
+		margin-top:18%;
+	}	
+.font20
+	{
+		font-size:22px;
+	}	
+.font18
+	{
+		font-size:17px;
+	}	
+.left20
+	{
+		margin-left:20%;
+	}	
+.left40
+	{
+		margin-left:40%;
+	}		
+.listed
+	{
+		height:300px;
+		width:100%;
+		float:left;
+		background-color:#DBDBDB ;
+		box-sizing:border-box;
+		text-align:center;
+		padding:2%;
+	}	
+.listed-location
+	{
+		height:20%;
+		width:50%;
+		background-color:white;
+		float:left;
+		margin-left:25%;
+		margin-top:3%;
+		font-size:22px;
+		text-align:left;
+		box-sizing:border-box;
+		padding:1%;
+		color:gray;
+	}	
+.front
+	{
+		height:100%;
+		width:30%;
+		float:left;
+		
+	}	
+.search
+	{
+		height:100%;
+		width:70%;
+		float:left;
+	}	
+.products
+	{
+		height:600px;
+		width:100%;
+		float:left;
+		
+		box-sizing:border-box;
+		padding-top:3%;
+		text-align:center;
+		padding-left:20%;
+		padding-right:%;
+	}	
+.products-tag
+	{
+		font-size:35px;
+		height:15%;
+		width:70%;
+		
+	}	
+.service-div
+	{
+		height:70%;
+		width:20%;
+		box-shadow:0.1px 0.1px 1px 0.1px;
+		
+		float:left;
+		border-radius:10px;
+		text-align:left;
+		margin-right:4%;
+	}	
+.product-img
+	{
+		height:50%;
+		width:100%;
+		float:left;
+	}	
+.full-img
+	{
+		height:100%;
+		width:100%;
+	}	
+.tag
+	{
+		height:12%;
+		width:100%;
+		font-size:25px;
+		margin-top:4%;
+		float:left;
+		box-sizing:border-box;
+		padding:4%;
+		
+	}	
+.about
+	{
+		width:100%;
+		margin-top:2%;
+		float:left;
+		box-sizing:border-box;
+		padding:4%;
+		font-size:18px;
+		color:gray;
+	}	
+.learn-more
+	{
+		margin-top:2%;
+		float:left;
+		box-sizing:border-box;
+		padding-left:4%;
+		font-size:18px;
+		color:blue;
+		padding-bottom:4%;
+		
+	}	
+	
+.review
+	{
+		height:500px;
+		width:100%;
+		float:left;
+		box-sizing:border-box;
+		padding-top:3%;
+		text-align:center;
+		padding-left:20%;
+		padding-right:%;
+		background-color:#F2F3F4 ;
+		
+	}	
+.happy-tag
+	{
+		height:12%;
+		width:80%;
+		font-size:40px;
+		
+	}	
+.review-about
+	{
+		height:50%;
+		width:70%;
+		
+		float:left;
+		margin-top:8%;
+	}	
+.image-msd
+	{
+		height:80%;
+		width:18%;
+		
+		float:left;
+	}	
+.review-text
+	{
+		height:50%;
+		width:75%;
+		
+		float:left;
+		box-sizing:border-box;
+		padding:1%;
+		font-size:22px;
+	}	
+.reviewer
+	{
+		height:10%;
+		width:70%;
+		float:left;
+		box-sizing:border-box;
+		padding:1%;
+		font-size:18px;
+		text-align:left;
+		margin-top:1%;
+	}	
+.get-up
+	{
+		height:900px;
+		width:100%;
+		float:left;
+		box-sizing:border-box;
+		padding-top:3%;
+		text-align:center;
+		padding-left:20%;
+		padding-right:20%;
+		
+	}	
+.get-title
+	{
+		height:20%;
+		width:100%;
+		float:left;
+		
+		text-align:left;
+		font-size:40px;
+	}	
+.points
+	{
+		height:70%;
+		width:50%;
+		
+		float:left;
+	}	
+.inside-points
+	{
+		height:28%;
+		width:100%;
+		float:left;
+		
+		margin-bottom:6%;
+	}	
+.numbring
+	{
+		height:100%;
+		width:12%;
+		float:left;
+		
+		font-size:30px;
+	}	
+.points-title
+	{
+		
+		width:82%;
+		float:left;
+		display:block;
+		margin-left:3%;
+		text-align:justify;
+		font-size:30px;
+		margin-bottom:2%;
+		
+	}	
+.points-detail
+	{
+		height:55%;
+		width:82%;
+		float:left;
+		
+		margin-left:3%;
+		text-align:justify;
+		font-size:26px;
+		color:gray;
+	}	
+.image-section
+	{
+		height:50%;
+		width:45%;
+		float:left;
+		margin-left:5%;
+		display:block;
+	}	
+
+	
+.journey
+	{
+		height:240px;
+		width:100%;
+		float:left;
+		
+		box-sizing:border-box;
+		padding-left:15%;
+		
+	}
+.journey-pic
+	{
+		height:100%;
+		width:80%;
+		float:left;
+		background-color:green;
+		background-image: url(journey.jpg);
+		background-size:100% 100%;
+		box-sizing:border-box;
+		padding:2%;
+		
+	}	
+.start-journey
+	{
+		height:30%;
+		width:100%;
+		color:white;
+		font-size:38px;
+		float:left;
+	}
+.create-page	
+	{
+		height:20%;
+		width:100%;
+		color:white;
+		font-size:18px;
+		float:left;
+	}
+.start-now
+	{
+		height:20%;
+		width:12%;
+		float:left;
+		color:white;
+		background-color:blue;
+		box-sizing:border-box;
+		padding:0.8%;
+		font-size:18px;
+		border-radius:10px;
+	}	
+.faq
+	{
+		height:600px;
+		width:100%;
+		float:left;
+		
+		margin-top:5%;
+		box-sizing:border-box;
+		padding-left:15%;
+	}
+.faq-title
+	{
+		height:12%;
+		width:70%;
+		float:left;
+		
+		font-size:35px;
+		text-align:center;
+	}	
+.que
+	{
+		height:10%;
+		width:80%;
+		float:left;
+		box-shadow:0.1px 0.1px 1px 0.1px;
+		box-sizing:border-box;
+		padding:1.5%;
+		text-align:left;
+		font-size:25px;
+		margin-top:2%;
+	}	
+.right	
+	{
+		float:right;
+		color:gray;
+	}

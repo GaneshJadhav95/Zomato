@@ -1,0 +1,287 @@
+body{
+	margin:0;
+}
+nav{
+	background-image:url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+	height:400px;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	width:100%;
+	color:white;
+	padding-top:2%;
+}
+.d1{
+	margin-left:12%;
+	float:left;
+}
+.d2{
+	margin-left:30%;
+	float:left;
+	font-size:20px;
+}
+.d3{
+	margin-left:4%;
+	float:left;
+	font-size:20px;
+}
+.d4{
+	text-align:center;
+	font-size:70px;
+	font-weight:bold;
+	float:left;
+	font-family:italic;
+	width:100%;
+	margin-top:4%;
+}
+.d5{
+	text-align:center;
+	font-size:45px;
+	float:left;
+	font-family:italic;
+	width:100%;
+	margin-top:1%;
+}
+.d6	{
+	float:left;
+	margin-left:24%;
+	padding:1%;
+	width:50%;
+	background-color:white;
+	border-radius:10px;
+	margin-top:2%;
+	color:gray;
+	font-size:18px;
+}
+.i{
+	color:red;
+	font-size:20px;
+	margin-right:2%;
+}
+.i2{
+	font-size:20px;
+	margin-left:10%;
+}
+.d7{
+	height:100%;
+	width:35%;
+	border:1px solid gray;
+	border-radius:10px;
+	float:left;
+	margin-left:14%;
+	margin-top:3%;
+}
+.d8{
+	height:100%;
+	width:35%;
+	border:1px solid gray;
+	border-radius:10px;
+	float:left;
+	margin-left:2%;
+	margin-top:3%;
+}
+.img{
+	height:200px;
+	width:100%;
+	border-radius:10px 10px 0px 0px;
+	object-fit:cover;
+}
+h3{
+	margin-left:4%;
+	margin-bottom:0%;
+}
+p{
+	margin-left:4%;
+	color:gray;
+}
+.d9{
+	font-size:35px;
+	font-weight:bold;
+	float:left;
+	margin-top:4%;
+	margin-left:14%;
+}
+.d10{
+	width:80%;
+	font-size:20px;
+	float:left;
+	margin-top:1%;
+	margin-left:14%;
+}
+.a{
+	text-decoration:none;
+	margin-left:5%;
+	color:red;
+}
+.d11{
+	background-image:url("https://cdn.loveandlemons.com/wp-content/uploads/2021/04/green-salad-1.jpg");
+	height:350px;
+	width:280px;
+	border-radius:10px;
+	float:left;
+	margin-left:14%;
+	margin-top:5%;
+	color:white;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.d12{
+	background-image:url("https://img.freepik.com/premium-photo/top-view-bowl-with-popcorn_23-2148582683.jpg");
+	height:350px;
+	width:280px;
+	border-radius:10px;
+	float:left;
+	margin-left:1%;
+	margin-top:5%;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.d13{
+	background-image:url("https://b.zmtcdn.com/data/collections/5b1cf3e74449210882e20e2fdb62fdc9_1535354975.jpg?fit=around|562.5:360&crop=562.5:360;*,*");
+	height:350px;
+	width:280px;
+	border-radius:10px;
+	float:left;
+	margin-left:1%;
+	margin-top:5%;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+}
+.d14{
+	margin-top:100%;
+	font-size:17px;
+	margin-left:5%;
+	color:white;
+}
+.d15{
+	font-size:40px;
+	word-spacing:1px;
+	letter-spacing:2px;
+	float:left;
+	margin-top:4%;
+	margin-left:14%;
+}
+.d16{
+	height:50px;
+	width:330px;
+ 	border-radius:10px;
+	float:left;
+	margin-left:14%;
+	font-size:20px;
+	margin-top:3%;
+	padding:1%;
+	letter-spacing:2px;
+	box-shadow:1px 1px 8px 0.1px #888888;
+}
+.d16:hover{
+	box-shadow:1px 1px 8px 2px #888888;
+}
+.d17{
+	height:100%;
+	padding:5%;
+	width:90%;
+	background-color:#fffbf7;
+	margin-top:8%;
+	float:left;
+}
+.im{
+	height:410px;
+	width:450px;
+	float:left;
+	margin-left:10%;
+}
+.d18{
+	height:410px;
+	width:500px;
+	float:left;
+	margin-left:5%;
+}
+.d19{
+	font-size:40px;
+	font-weight:bold;
+	letter-spacing:3px;
+}
+.d20{
+	margin-top:5%;
+	font-size:18px;
+	color:gray;
+}
+.d21{
+	margin-top:5%;
+	font-size:20px;
+	float:left;
+}
+input{
+	float:left;
+	width:56%;
+	margin-top:5%;
+	padding:3%;
+	border:0.5px solid gray;
+	border-radius:5px;
+	background-color:white;
+}
+.btn {
+   background-image: linear-gradient(to right, #D31027 0%, #EA384D  51%, #D31027  100%);
+   margin: 10px;
+   float:left;
+   width:18%;
+   font-size:14px;
+   padding: 15.8px 35px;
+   margin-top:5%;
+   text-align: center;
+   transition: 0.5s;
+   background-size: 200% auto;
+   color: white;            
+   box-shadow: 0 0 20px #eee;
+   border-radius: 10px;
+   display: block;
+ }
+ .btn:hover {
+   background-position: right center; /* change the direction of the change here */
+   color: #fff;
+   text-decoration: none;
+ }
+.im2{
+	height:50px;
+	width:160px;
+	margin-top:5%;
+}
+.d22{
+	height:100%;
+	margin-top:2%;
+	width:69%;
+	font-size:20px;
+	border:1px solid gray;
+	float:left;
+	padding:1.5%;
+	letter-spacing:3px;
+	margin-left:14%;
+	border-radius:10px;
+}
+.footer
+	{
+		height:550px;
+		width:100%;
+		background-color:#ECEEEE ;
+		float:left;
+		box-sizing:border-box;
+		padding-left:10%;
+		padding-right:10%;
+		padding-top:5%;
+		margin-top:5%;
+	}
+.branding
+	{
+		height:14%;
+		width:100%;
+		float:left;
+		font-size:40px;
+		
+	}
+.detail
+	{
+		height:70%;
+		width:16%;
+		float:left;
+		margin-top:1%;
+		margin-right:4%;
+	}	
